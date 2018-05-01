@@ -22,10 +22,10 @@
     "homepage": "https://github.com/rse/grunt-expand-include",
     "bugs":     "https://github.com/rse/grunt-expand-include/issues",
     "devDependencies": {
-        "grunt":                "~0.4.1",
-        "grunt-cli":            "~0.1.9",
-        "grunt-contrib-jshint": "~0.4.3",
-        "grunt-contrib-clean":  "~0.5.0",
-        "grunt-expand-include": "~0.9.4"
+        "grunt":                "1.0.2",
+        "grunt-cli":            "1.2.0",
+        "grunt-contrib-jshint": "1.1.0",
+        "grunt-contrib-clean":  "1.1.0",
+        "grunt-expand-include": "0.9.7"
     }
 }
