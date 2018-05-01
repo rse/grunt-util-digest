@@ -2,7 +2,7 @@
     "name":        "grunt-util-digest",
     "homepage":    "http://github.com/rse/grunt-util-digest",
     "description": "Grunt Plugin for calculating Message Digest of Source Files",
-    "version":     "0.9.2",
+    "version":     "0.9.3",
     "license":     "MIT",
     "author": {
         "name":    "Ralf S. Engelschall",
